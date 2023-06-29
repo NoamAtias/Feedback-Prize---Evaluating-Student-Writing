@@ -1,7 +1,7 @@
 # Statistical Inference and Data Mining Final Project
 
 Welcome to the repository for our final project in the course on Statistical Inference and Data Mining. This project involves participating in the Kaggle competition "Feedback Prize 2021." The competition focuses on solving a Named Entity Recognition (NER) problem using the provided dataset.
-###This project was done together with Chanel Michaeli.
+### This project was done together with Chanel Michaeli.
 
 ## Table of Contents
 
