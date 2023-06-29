@@ -15,6 +15,7 @@ Welcome to the repository for our final project in the course on Statistical Inf
   - [Evaluation](#evaluation)
   - [Submission](#submission)
 - [Usage](#usage)
+- [Contributing](#Contributing)
 
 
 ## Introduction
@@ -57,4 +58,18 @@ Create the submission file in the required format specified by the competition. 
 
 To use the code and reproduce the results of this project, follow these steps:
 
-1. Clone the repository: `git clone https://
+1. Clone the repository: `git clone https://github.com/NoamAtias/Feedback-Prize---Evaluating-Student-Writing.git`
+2. Install the required dependencies by running: `pip install -r requirements.txt`
+3. Download the dataset from the competition link: [Feedback Prize 2021](https://www.kaggle.com/c/feedback-prize-2021)
+4. Place the dataset files in the appropriate directory within the repository.
+5. Open the Jupyter Notebook file `notebook.ipynb` using Jupyter Notebook or any compatible environment.
+6. Run the notebook cells sequentially to execute the data analysis, problem definition, preprocessing, model building, training, evaluation, and submission steps.
+7. Adjust the hyperparameters, model architecture, or preprocessing steps as needed to experiment and improve the results.
+8. Review the generated submission file and ensure it is formatted correctly.
+9. Submit the submission file through the Kaggle platform for evaluation and comparison with other participants.
+
+Feel free to explore the notebook and modify the code to suit your needs or experiment with alternative approaches to improve the accuracy and performance of the NER model.
+
+## Contributing
+
+If you wish to contribute to this project, you can fork the repository, make your modifications, and submit a pull request. Contributions such as bug fixes, enhancements, or additional features are welcome and greatly appreciated.
